@@ -1,2 +1,2 @@
-# the-enemy-moral-compass
-Moral Compass react app for school project work
+# Moral Compass: The Enemy
+Moral Compass React app for school project work
